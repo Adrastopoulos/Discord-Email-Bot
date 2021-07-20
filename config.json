@@ -1,0 +1,8 @@
+{
+    "username": "Email Address",
+    "password": "Email Password",
+    "host": "Imap Mail Server Address",
+    "port": "Imap Mail Server Port",
+    "token": "Discord Bot Token",
+    "channel": "Announcement Channel ID"
+}

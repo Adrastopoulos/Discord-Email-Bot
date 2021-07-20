@@ -1,0 +1,16 @@
+{
+  "name": "discord-email-bot",
+  "version": "1.0.0",
+  "description": "Relay received emails to Discord",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "mail-listener6": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Adrastopoulos",
+  "license": "MIT"
+}
